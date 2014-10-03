@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Lorem Ipsum!
+=======
+Lorem ipsum...
+
+Suis-je en master
+>>>>>>> ad7492ea287443da568a48440942c7b5ba550248

@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+testIgnore.txt
+=======
+*
+!.gitignore
+>>>>>>> 58c5af729e4522d882e8680ebc9e062e5e503d54
